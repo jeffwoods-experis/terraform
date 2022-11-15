@@ -1,0 +1,6 @@
+{
+    "terraform.languageServer.enable": true,
+    "terraform.languageServer.ignoreSingleFileWarning": true,
+    "terraform.experimentalFeatures.prefillRequiredFields": true,
+    "terraform.codelens.referenceCount": true
+}
